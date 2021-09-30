@@ -4,6 +4,7 @@
 #include "alias.h"
 #include "speedtest.h"
 #include "tts.h"
+#include "ls_alias.h"
 int main(){
     greet();
     std::string cmnd;
